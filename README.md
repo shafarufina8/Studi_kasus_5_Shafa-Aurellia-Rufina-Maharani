@@ -2,6 +2,8 @@
 Nama: Shafa Aurellia Rufina Maharani
 Nim: 2609116001
 
+Kode program ini berfungsi untuk menerima input jenis kamar, tanggal check in, dan tanggal check out pemesanan hotel. Setelah itu menghitung selisih tanggal check in dan check out sebagai lama menginap. Untuk total biaya dihitung berdasarkan tarif melalui pemanggilan function dan terakhir menampilkan hasil pemesanan hotel.
+
 <img width="1692" height="251" alt="Output kamar standart" src="https://github.com/user-attachments/assets/6d7a9a37-252b-4e74-a1ec-57c060dd08ad" />
 <img width="1677" height="242" alt="Output kamar deluxe" src="https://github.com/user-attachments/assets/0cb39217-7172-4296-a5db-70decc1ecec4" />
 
